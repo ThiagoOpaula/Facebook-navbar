@@ -1,3 +1,5 @@
+tutorial video: https://youtu.be/IF6k0uZuypA by fireship.io
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
